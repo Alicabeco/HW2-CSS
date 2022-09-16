@@ -13,7 +13,7 @@ nav {
 .bodyText {                                     /* Class */
     text-indent: 20px;                          /* Text Indent */
     font-family: Arial, Helvetica, sans-serif;  /* Different Font */
-    position: left;
+    position: inherit;
     color: green;
 }
 
